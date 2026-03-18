@@ -1,8 +1,7 @@
 +++
 date = '2026-02-04T12:36:42+05:30'
 draft = false
-title = 'My First Post'
+title = '**Introduction**'
 +++
 
-I am Sujit Kumar Mehta.  I am from Hazaribagh, Jharkhand. My native language is Hindi. Last year, I passed 12th from JNV Hazaribagh. Currently, I am pursuing a BSc (Honours) at Azim Premji University Banglore.
-
+ I am Sujit Kumar Mehta.This is my first reflection blog. I am from Hazaribagh, Jharkhand. My native language is Hindi. Last year, I passed 12th from JNV Hazaribagh. Currently, I am pursuing a BSc (Honours) at Azim Premji University Banglore. My major is Information Science. Currently i am in second semester. I learnt something new in this course little bit about latex, markdown and wikis.I learn something about coding, how to write math equation and practice in lab. when first time i was learning about these things. I was stucking in lot of steps. then i took help from groupmates to solve problems . and in second lab we wrote summary with groupmates. After that we learnt creating site on hugo and how to uplaod content on site. This time i trouble with many problems . also this time take help from groupmates to solve the problems. After that we learnt about how photo and and video works. and learnt how  image edit, rotate, shift and coulor works in image. means how these transformation happens in computer. and how much storage they occupy. means how pixels works to give colourful and attractive image.  
