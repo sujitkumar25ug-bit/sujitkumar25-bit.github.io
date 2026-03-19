@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Project</title>
-    <link>http://localhost:1313/sujitkumar25ug-bit/sujitkumar25-bit.github.io/posts/</link>
+    <link>https://github.com/sujitkumar25ug-bit/sujitkumar25-bit.github.io/posts/</link>
     <description>Recent content in Posts on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Feb 2026 12:36:42 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/sujitkumar25ug-bit/sujitkumar25-bit.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Mar 2026 10:33:47 +0530</lastBuildDate>
+    <atom:link href="https://github.com/sujitkumar25ug-bit/sujitkumar25-bit.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Course Blog</title>
+      <link>https://github.com/sujitkumar25ug-bit/sujitkumar25-bit.github.io/posts/course-blog/</link>
+      <pubDate>Thu, 19 Mar 2026 10:33:47 +0530</pubDate>
+      <guid>https://github.com/sujitkumar25ug-bit/sujitkumar25-bit.github.io/posts/course-blog/</guid>
+      <description>&lt;p&gt;In this course BRIS when we started learning topics such as image transformaton, water tank problems, coin exchange problem, bag contain problem and train road mapping problem. I found the topics are quite different from other course. Some topics are little familiar such as water tank problem and bag contain problem but some are completely new such as image tranformation and train road mapping. While we was studying  these topics .I like to learn these topics because some topics are easy relatable and little familiar and some are little new and hard for me . when i was learning sometimes i feel this course is hard and difficult because i stuck in some question and i could noyt understand some topics immediately. One of the main challanges I faced  when i was solving comples question. i cannot solve all question. I  gotstuck in few steps  then we have to took help from groupates . They support me in solving question and understanding the concepts. When i  started writing i thought writing reflection blog would be simple but at the end i found it requires deeper thinking about learning experience and through this process I realized that reflection helps in improving critical thinking.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>**Introduction**</title>
-      <link>http://localhost:1313/sujitkumar25ug-bit/sujitkumar25-bit.github.io/posts/my-first-post/</link>
+      <link>https://github.com/sujitkumar25ug-bit/sujitkumar25-bit.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 04 Feb 2026 12:36:42 +0530</pubDate>
-      <guid>http://localhost:1313/sujitkumar25ug-bit/sujitkumar25-bit.github.io/posts/my-first-post/</guid>
+      <guid>https://github.com/sujitkumar25ug-bit/sujitkumar25-bit.github.io/posts/my-first-post/</guid>
       <description>&lt;p&gt;I am Sujit Kumar Mehta.This is my first reflection blog. I am from Hazaribagh, Jharkhand. My native language is Hindi. Last year, I passed 12th from JNV Hazaribagh. Currently, I am pursuing a BSc (Honours) at Azim Premji University Banglore. My major is Information Science. Currently i am in second semester. I learnt something new in this course little bit about latex, markdown and wikis.I learn something about coding, how to write math equation and practice in lab. when first time i was learning about these things. I was stucking in lot of steps. then i took help from groupmates to solve problems . and in second lab we wrote summary with groupmates. After that we learnt creating site on hugo and how to uplaod content on site. This time i trouble with many problems . also this time take help from groupmates to solve the problems. After that we learnt about how photo and and video works. and learnt how  image edit, rotate, shift and coulor works in image. means how these transformation happens in computer. and how much storage they occupy. means how pixels works to give colourful and attractive image.&lt;/p&gt;</description>
     </item>
   </channel>

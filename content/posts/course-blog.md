@@ -1,0 +1,6 @@
++++
+date = '2026-03-19T10:33:47+05:30'
+draft = false
+title = 'Course Blog'
++++
+In this course BRIS when we started learning topics such as image transformaton, water tank problems, coin exchange problem, bag contain problem and train road mapping problem. I found the topics are quite different from other course. Some topics are little familiar such as water tank problem and bag contain problem but some are completely new such as image tranformation and train road mapping. While we was studying  these topics .I like to learn these topics because some topics are easy relatable and little familiar and some are little new and hard for me . when i was learning sometimes i feel this course is hard and difficult because i stuck in some question and i could noyt understand some topics immediately. One of the main challanges I faced  when i was solving comples question. i cannot solve all question. I  gotstuck in few steps  then we have to took help from groupates . They support me in solving question and understanding the concepts. When i  started writing i thought writing reflection blog would be simple but at the end i found it requires deeper thinking about learning experience and through this process I realized that reflection helps in improving critical thinking.
