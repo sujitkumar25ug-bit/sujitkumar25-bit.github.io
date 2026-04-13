@@ -1,0 +1,7 @@
++++
+date = '2026-04-14T00:10:52+05:30'
+draft = false
+title = 'Reflection Blog on Communicating Information'
++++
+So in this unit I learnt about typebot. This is a nice and valuable learning experience for me . Through this project we learned how information can be presented shortly. When I started making this project. This project is really very hard for me . Until I did not understand. In this project I learned how to make interactive and conversational easy communicating information. And also I learned to design a system that gives information in a clear way. Through which people easily communicate with it and get information friendly without doing any hard work. From this project I learnt that making a communicating chatbot needs more and clear information through which people can understand easily.  In this project we need a clear and easy and friendly design so that whenever we communicate with them , we will not feel bored. I face lots of challenges during this project. One of the main difficulties was making question in button key and after that i took help from my groupmates he tell how to make like button and another problem was when i made this but when question show like a button and we select a question only show that answer and other question does not show that time. 
+Overall by this project i learned using typebot made a creatives like communicating information
