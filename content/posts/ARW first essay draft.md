@@ -28,4 +28,6 @@ The next 20 years chief engineer will be moving from Mora more to more than Mora
 #### References
 1. IBM https://www.ibm.com/think/topics/semiconductors#:~:text=Transistors%20and%20semiconductor%20devices,flow%20of%20an%20electric%20current.
 2. Burklin, https://www.buerklin.com/en/electronic-competence/measurement-technology/the-history-of-semiconductors/
-4. https://www.imec-int.com/en/what-we-offer/semiconductor-education-and-workforce-development/microchips/moores-law
+3. SYNOPSYS https://www.synopsys.com/glossary/what-is-moores-law.html
+5. https://www.imec-int.com/en/what-we-offer/semiconductor-education-and-workforce-development/microchips/moores-law
+6. 
