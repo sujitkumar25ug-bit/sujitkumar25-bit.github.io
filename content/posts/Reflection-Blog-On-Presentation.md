@@ -1,0 +1,8 @@
++++
+date = '2026-05-11T16:14:20+05:30'
+draft = false
+title = 'Reflection Blog on Presentation'
++++
+In the presentation I most liked group 4 because they discussed the experience of women in computer science. They discussed  what the challenges women face in the field of computer science and technology such as explaining about Ada Lovelace is the first computer programmer and she is called the mother of computers. they explain self efficacy in simple way through example they explain this by graph where data showing time of uses of computer in home of a student and parents,, where data is showing, in home more than 90% time girls and boys uses computer and other times parents use the computer. so that presentation focuses on both the difficulty faced by women and what the solution to that problem is faced. so that they said more time using computers is showing online learning opportunities and career opportunities.
+The presentation also said since past women were often discouraged in computer science and technology related careers because of Lack support and social stereotypes. In the computer science and technology field, confidence and encouragement play an important role in career development for women and also for men. Over time women's fear decreases and their confidence increases. Now women have chosen careers in the computer science field. Now a lot of girls work in the computer science field and exclude it's a career and as a computer scientist. 
+So overall the presentation discusses women's or girl problems in the computer science field and how they solve their problem and working as a computer science career.
